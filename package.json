@@ -1,19 +1,19 @@
 {
-  "name": "parvej-backend",
-  "version": "1.0.0",
-  "description": "a backend with parry",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "jaavascript",
-    "backend",
-    "parry"
-  ],
-  "author": "Er. Parvej Ansari",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.0.2"
-  }
+    "name": "parvej-backend",
+    "version": "1.0.0",
+    "description": "a backend with parry",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon src/index.js"
+    },
+    "keywords": [
+        "jaavascript",
+        "backend",
+        "parry"
+    ],
+    "author": "Er. Parvej Ansari",
+    "license": "ISC",
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    }
 }
