@@ -12,5 +12,8 @@
     "parry"
   ],
   "author": "Er. Parvej Ansari",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
 }
